@@ -609,15 +609,12 @@ select {
   .cards3 {
     margin-left: -45px;
     width: 340px;
-    margin-bottom: 300px;
   }
 }
 @media (max-width: 447px) {
   .cards4 {
     width: 340px;
-    position: absolute;
-    right: 150px;
-    top: 940px;
+    margin-left: -45px;
   }
 }
 @media (max-width: 447px) {
