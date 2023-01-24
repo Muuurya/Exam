@@ -727,3 +727,201 @@ select {
     margin-top: 200px;
   }
 }
+
+@media (min-width: 448px) and (max-width: 769px) {
+  header {
+    width: 100%;
+    height: 460px;
+    flex-wrap: wrap;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .ul1 {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-right: 300px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .li1 {
+    width: 500px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .wrapper {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-bottom: 220px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .head1 {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 90px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .p-section1 {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-left: 45px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .b2 {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-left: 45px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .youtube {
+    width: 400px;
+    height: 250px;
+    margin-left: 175px;
+    margin-top: -150px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .playbutton {
+    margin-top: -150px;
+    margin-left: 150px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .wrapper2 {
+    width: 100%;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .head2 {
+    margin-left: -20px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  #wrapper3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 350px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .cards1 {
+    margin-left: -70px;
+    width: 340px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .cards2 {
+    margin-left: -45px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .cards3 {
+    margin-left: -70px;
+    width: 340px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .cards4 {
+    width: 340px;
+    margin-left: -45px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .cards5 {
+    margin-left: 115px;
+    width: 340px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .p-section5 {
+    text-align: center;
+    padding: 50px;
+    margin-left: -110px;
+    margin-top: -50px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .wrap6 img {
+    margin-left: -70px;
+    margin-right: 20px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .head5 {
+    text-align: center;
+    margin-left: -100px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .wrap6 {
+    width: 100%;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    margin-top: 130px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .form2 {
+    margin-right: 600px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .wrapper7 {
+    width: 100%;
+    height: 500px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .head7 {
+    margin-left: -85px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .p-section7 {
+    margin-left: -85px;
+    width: 300px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .head8 {
+    margin-left: -180px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .unordered {
+    margin-left: -180px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .head9 {
+    margin-left: -200px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .p-section8 {
+    margin-left: -200px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .p-section9 {
+    margin-left: -200px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .p-section10 {
+    margin-left: -200px;
+  }
+}
+@media (min-width: 448px) and (max-width: 769px) {
+  .section1 {
+    margin-left: -200px;
+  }
+}
